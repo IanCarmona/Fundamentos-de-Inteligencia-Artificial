@@ -1,0 +1,15 @@
+Paciente,Edad,Sexo,PresionSanguinea,Colesterol,Medicamento
+p1,Joven,F,Alta,Normal,A
+p2,Joven,F,Alta,Alto,A
+p3,Mediana-Edad,F,Alta,Normal,B
+p4,Senior,F,Normal,Normal,B
+p5,Senior,M,Baja,Normal,B
+p6,Senior,M,Baja,Alto,A
+p7,Mediana-Edad,M,Baja,Alto,B
+p8,Joven,F,Normal,Normal,A
+p9,Joven,M,Baja,Normal,B
+p10,Senior,M,Normal,Normal,B
+p11,Joven,M,Normal,Alto,B
+p12,Mediana-Edad,F,Normal,Alto,B
+p13,Mediana-Edad,M,Alta,Normal,B
+p14,Senior,F,Normal,Alto,B

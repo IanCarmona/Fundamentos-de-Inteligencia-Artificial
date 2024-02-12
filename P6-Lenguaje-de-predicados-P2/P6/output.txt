@@ -1,0 +1,16 @@
+es noctilionoidea
+es chiroptera
+es mamifero
+es animal
+nombre_comun(murcielago_bulldog)
+imagen(murcielago.jpg)
+es(pescador)
+tien(alas)
+es(roedor)
+puede(mamar)
+respira(aire)
+puede(sentir)
+puede(respirar)
+true.
+
+
